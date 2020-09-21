@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: index
+  - title: "Services"
+    url: services
+  - title: "About us"
+    url: about
+  - title: "Contact us"
+    url: contact
