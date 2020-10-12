@@ -1,10 +1,21 @@
 ---
 layout: single
-title: Contact
+title: We would love to hear from you
 permalink: /contact/
 ---
-<form action="https://formspree.io/you@email.com">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
+
+We love to hear about new innovative ideas. We love even more to turn them into reality. Drop us a message and we can talk about yours.
+
+<form action="https://formspree.io/f/xleojdwo" method="POST">
+  <label for="fname">Full Name:</label><br>
+  <input type="text" name="name">
+  <label for="cname">Company:</label><br>
+  <input type="text" name="cname">
+  <label for="email">Email Address:</label><br>
+  <input type="email" name="_replyto">
+  <label>
+    Message:
+    <textarea name="message"></textarea>
+  </label>
+  <input type="submit" value="Send" style="background-color: #43b4be; color: white">
 </form>
