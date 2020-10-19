@@ -5,13 +5,13 @@
 layout: splash
 title: CTO Services
 excerpt: We Accelerate Your Company's Success
-classes: wide
+classes: widhttps://www.linkedin.com/e
 header:
   overlay_image: /assets/images/DSC_0042.JPG
 row1:
   - image_path: /assets/images/brainstorm-white-bckgrd-250.png
     size: width:250px;height:250px;margin-left:60px;
-  - list: "* If you are working with an agency - keep 'em honest, * Make sure costs and time frames are adequate, * They are qualified to build your product, * Monitor project execution as your trusted representative, * Mentor you how to stay on top of things with an agency"
+  - list: "* If you are working with an agency - keep 'em honest, * Make sure costs and time frames are adequate, * Make sure they are qualified to build your product, * Monitor project execution as your trusted representative, * Mentor you on how to stay on top of things with an agency"
 row2:
   - list: "* Translate your idea and business goals into technical needs, * Advise on technological stack necessary to build your product, * Create development plan (roadmap), * Analyze costs and recommend cost savings, * Help hire the right talent for your company"
   - image_path: /assets/images/Home-page-clock.png
@@ -35,7 +35,7 @@ actions:
 <div markdown="1" id="grey-bckgrd">
 # Who is This For
   * Non-technical founders who are about to embark on their journey or are at the beginning of technical product development
-  * Founders who already spent money and resources and were "burned" by a not-so-simple world of technical product development
+  * Founders who already spent money and resources and were "burned" by the not-so-simple world of technical product development
   * Startups who already have a product and want to move to the next stage
 </div>
 
@@ -52,11 +52,11 @@ We provide CTO services on a part-time (fractional CTO) or a full-time basis (In
 <div id="grey-bckgrd">
 <div markdown="1" >
 # What Will Your Money Get You
-* **Coffee time** - two hours advisory meeting
+* **Coffee time** - two hour advisory meeting
 * **CTO services**:
-  * We will be your representative if you work with the agency
-  * We will create your roadmap, help you to decide what technologies to use to build your product, build your development team, practices and processes if you decide to build you product in-house so that your product suits your business needs
-* **Retainer** - "all inclusive" access to our team. If you have a concern or a problem with your product development our team will help you solve it
+  * We will be your representative if you work with an agency
+  * We will create your roadmap, help you decide what technologies to use to build your product, and build your development team, practices, and processes if you decide to build you product in-house, so that your product suits your business needs
+* **Retainer** - "all inclusive" access to our team. If you have a concern or a problem with your product development, our team will help you solve it
 </div>
 <br />
 <div markdown="1" >

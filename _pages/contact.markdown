@@ -4,7 +4,7 @@ title: We would love to hear from you
 permalink: /contact/
 ---
 
-We love to hear about new innovative ideas. We love even more to turn them into reality. Drop us a message and we can talk about yours.
+We love to hear about new, innovative ideas. Even more, we love to turn them into reality. Drop us a message and we can talk about yours!
 
 <form action="https://formspree.io/f/xleojdwo" method="POST">
   <label for="fname">Full Name:</label><br>
