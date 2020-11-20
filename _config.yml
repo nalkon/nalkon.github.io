@@ -44,6 +44,8 @@ plugins:
   - jekyll-include-cache
 
 include: ["_pages"]
+#Google Analytics
+google_analytics: "G-9293FR2YJB"
 
 
 
